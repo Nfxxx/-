@@ -1,0 +1,8 @@
+pymongo~=3.13
+PyGithub>=1.55
+ccxt>=1.91.22
+openpyxl>=3.0.9
+redis==4.3.4
+bokeh==2.4.3
+influxdb==5.3.1
+pymongo==3.13.0
